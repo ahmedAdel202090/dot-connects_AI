@@ -4,7 +4,8 @@ this AI solution of dots and connects game
 # Content
 - this DFS algorithm which is can play web game for you
 - game URL:https://demonisblack.com/code/2017/connectaway/game/
-
+# setup
+-install pillow lib (pip install pillow)
 # run
 - open link and choose specific level
 - open command and change directory on project folder
