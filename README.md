@@ -3,7 +3,7 @@ this AI solution of dots and connects game
 
 # Content
 - this DFS algorithm which is can play web game for you
-- game URL:https://demonisblack.com/code/connectaway/game/
+- game URL:https://demonisblack.com/code/2017/connectaway/game/
 
 # run
 - open link and choose specific level
