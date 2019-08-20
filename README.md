@@ -6,6 +6,7 @@ this AI solution of dots and connects game
 - game URL:https://demonisblack.com/code/2017/connectaway/game/
 # setup
 -install pillow lib (pip install pillow)
+-install win32api lib
 # run
 - open link and choose specific level
 - open command and change directory on project folder
